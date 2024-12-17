@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/accueil_item"
+        android:checkable="true"
+        android:icon="@drawable/baseline_account_balance_24"
+        android:title="Accueil" />
+    <item
+        android:id="@+id/ajouter_sujet_item"
+        android:checkable="true"
+        android:icon="@drawable/baseline_add_box_24"
+        android:title="Ajouter un sujet" />
+    <item
+        android:id="@+id/supprimer_votes_item"
+        android:checkable="true"
+        android:icon="@drawable/baseline_delete_24"
+        android:title="Supprimer les votes" />
+    <item
+        android:id="@+id/supprimer_sujets_item"
+        android:checkable="true"
+        android:icon="@drawable/baseline_delete_24"
+        android:title="Supprimer les sujets" />
+</menu>
